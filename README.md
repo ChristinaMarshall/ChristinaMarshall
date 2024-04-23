@@ -1,0 +1,4 @@
+# All about myself.
+1. After high school, I got into the flower business and opened my own flower shop and have been purchasing and selling shops ever since. I have been self employed for over 28 years now. During this time, I started a flower shop franchise called Funky Petals and currently have 8 locations. 
+2. I enjoy the outdoors, but when I am inside, I find coding very intriguing and I have taken some courses through the University of Waterloo on coding, and now very excited to take more courses through the University of Alberta to help me develop my Website and Point of Sale System that all the Funky Petals currently use.
+3. I have experience with the basic HTML5, CCS and Java Script and using the Cpanel for our own website.
